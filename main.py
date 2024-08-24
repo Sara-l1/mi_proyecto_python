@@ -34,6 +34,3 @@ if __name__ == "__main__":
     despedida = despedirse(nombre)
     print(despedida)
 
-    frutas = ['manzana', 'banana', 'zanahoria']
-for fruta in frutas:
-    print(fruta)
